@@ -1,4 +1,4 @@
-package coding_games;
+package coding_games.java;
 
 public class RoboticArmFacytory {
     public static void main(String[] args) {

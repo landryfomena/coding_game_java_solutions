@@ -1,4 +1,4 @@
-package coding_games;
+package coding_games.java;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

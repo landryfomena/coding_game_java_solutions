@@ -1,4 +1,4 @@
-package coding_games;
+package coding_games.java;
 
 public class A {
     public A() {

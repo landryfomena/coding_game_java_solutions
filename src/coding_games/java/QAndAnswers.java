@@ -1,4 +1,4 @@
-package coding_games;
+package coding_games.java;
 
 import java.util.HashMap;
 import java.util.HashSet;
